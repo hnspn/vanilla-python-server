@@ -12,3 +12,6 @@
   - blocks the process until there is data to be read or the connection is closed
   - it can be used to tell if the connction has terminated (if it returns nothing)
 - I may have underestimated the complexity of an HTTP server. I think I will start with a simple chat server
+- socket.accept() is blocking
+  - I should dispatch a new thread for each new connections
+  - or restructure the app to use async methods
