@@ -2,7 +2,9 @@
 
 ## Curent functionnalities
 
+- listen to requests on a specified port
+
 ## Desired functionnalities
 
-- listen to requests on a specified port
+- implement TCP handshake
 - reject non http request
