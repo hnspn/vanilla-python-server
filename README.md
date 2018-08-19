@@ -15,6 +15,8 @@
 
 ### Chat server
 
+[related blog post](https://honeyspoon.me/vanilla-python-chat-server)
+
 1. make sure you use a python 3 env
 2. run `python chat.py`
 3. open another terminal for each desired client
